@@ -1,0 +1,13 @@
+html, body {
+  weight: 100%;
+  width: 100%;
+}
+
+#mapa_teresopolis{
+  height: 95%;
+  width: 95%;
+}
+
+h1{
+  color: blue;
+}
