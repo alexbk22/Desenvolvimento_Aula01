@@ -1,6 +1,7 @@
 html, body {
   height: 100%;
   width: 100%;
+  position: absolute;
 }
 
 #meumapa{
@@ -12,4 +13,12 @@ h1{
   color: #ff0000;
   text-align: center;
   border-style: solid;
+}
+
+img{
+
+  position: absolute;
+  top: 90%;
+  left: 2%;
+  z-index: 500;
 }
